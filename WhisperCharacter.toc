@@ -1,0 +1,6 @@
+## Interface: 16001
+## Title: WhisperCharacter
+## Notes: "Whisper" in the Battle.net friend menu whispers the logged-in character; hold Shift for the usual Battle.net whisper.
+## Version: 1.0.0
+
+WhisperCharacter.lua
